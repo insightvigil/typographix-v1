@@ -12,7 +12,7 @@ This is the first version of my course project. I put into practice CSS basics a
 - FontAwesome 
 - Google Fonts
 
-You can check it out live [here](https://insightvigil.github.io/typographix-v1.
+You can check it out live [here](https://insightvigil.github.io/typographix-v1).
 
 ### Contributors 🤝
 - [Adrián Vigil](https://github.com/insightvigil)
