@@ -7,6 +7,8 @@ This is the first version of my course project. I put into practice CSS basics a
 - CSS
 
 ### Features ⚙️
+- Interactive
+- Animations
 - FontAwesome 
 - Google Fonts
 
